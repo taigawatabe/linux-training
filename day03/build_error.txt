@@ -1,0 +1,7 @@
+broken.c: In function ‘main’:
+broken.c:5:22: error: expected ‘;’ before ‘return’
+    5 |     printf("Hello\n")
+      |                      ^
+      |                      ;
+    6 |     return 0
+      |     ~~~~~~            
