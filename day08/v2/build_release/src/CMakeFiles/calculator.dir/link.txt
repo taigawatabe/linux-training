@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG CMakeFiles/calculator.dir/main.c.o -o calculator  ../lib/libcalc.a 

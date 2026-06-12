@@ -1,0 +1,8 @@
+/home/user/training/day08/v2/build_release/CMakeFiles/edit_cache.dir
+/home/user/training/day08/v2/build_release/CMakeFiles/rebuild_cache.dir
+/home/user/training/day08/v2/build_release/lib/CMakeFiles/calc.dir
+/home/user/training/day08/v2/build_release/lib/CMakeFiles/edit_cache.dir
+/home/user/training/day08/v2/build_release/lib/CMakeFiles/rebuild_cache.dir
+/home/user/training/day08/v2/build_release/src/CMakeFiles/calculator.dir
+/home/user/training/day08/v2/build_release/src/CMakeFiles/edit_cache.dir
+/home/user/training/day08/v2/build_release/src/CMakeFiles/rebuild_cache.dir
